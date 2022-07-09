@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bottom Sheet Sample</string>
+
+    <string name="expand_bottom_sheet">Expand Bottom Sheet</string>
+
+    <string name="bottom_sheet_title">Bottom Sheet Title</string>
+
+    <string name="main_bottom_sheet_content_title">Main Bottom Sheet Content Title</string>
+    <string name="main_bottom_sheet_content_sub_title">main bottom sheet content sub title</string>
+    <string name="navigate_to_sub_bottom_sheet">Navigate to sub bottom sheet</string>
+
+    <string name="sub_bottom_sheet_content_title">Sub Bottom Sheet Content Title</string>
+    <string name="sub_bottom_sheet_content_sub_title">sub bottom sheet content sub title</string>
+    <string name="navigate_to_main_bottom_sheet">Navigate to main bottom sheet</string>
+</resources>

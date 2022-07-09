@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ModalBottomSheet" parent="Widget.MaterialComponents.BottomSheet.Modal">
+        <item name="android:background">@drawable/rounded_dialog_primary</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.App.LargeComponent</item>
+    </style>
+
+    <style name="ShapeAppearance.App.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
+        <item name="cornerSize">20dp</item>
+    </style>
+
+    <style name="BottomSheet.Toolbar" parent="Widget.MaterialComponents.Toolbar.PrimarySurface">
+        <item name="android:gravity">center_vertical</item>
+    </style>
+</resources>
